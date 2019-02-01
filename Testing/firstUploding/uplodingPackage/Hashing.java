@@ -1,4 +1,4 @@
-public class Hashing {
+package uplodingPackage;
 	
 	 public static void main(String[] args) {
 		    
